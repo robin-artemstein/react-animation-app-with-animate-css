@@ -1,4 +1,4 @@
-# React Animate app with Animate.css
+# React Animation app with Animate.css
 
 The React UI animation application build the following tech stack combination.
 
@@ -15,7 +15,7 @@ git add .
 git commit -m "The Nth commit on date."
 git remote rm origin
 git branch -M main
-git remote add origin git@github.com:robin-artemstein/react-animate-app-with-animate-css.git
+git remote add origin git@github.com:robin-artemstein/react-animation-app-with-animate-css.git
 git push -u origin main
 ```
 
