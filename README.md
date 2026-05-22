@@ -1,6 +1,6 @@
 # React Animate app with Animate.css
 
-The CSS animation application build the following tech stack combination.
+The React UI animation application build the following tech stack combination.
 
 - React for UI and interaction design
 - Vite for web building
